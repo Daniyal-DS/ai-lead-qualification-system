@@ -17,6 +17,9 @@ Sorting through "junk" inquiries is a major bottleneck for sales teams. This pro
 * **Trigger:** Tally Forms
 * **Database:** Google Sheets
 * **Logic:** Router & Tool modules within Make
+## 📊 System Workflow
+
+![Lead Qualification Workflow](workflow.jpg)
 
 ## 📋 Features
 * **Instant Scoring:** No more waiting for manual reviews.
@@ -24,8 +27,6 @@ Sorting through "junk" inquiries is a major bottleneck for sales teams. This pro
 * **Scalable Architecture:** Can be easily extended to Slack, CRM (HubSpot/Salesforce), or automated email responses.
 * **Customizable Logic:** Tailor the AI prompt to your specific "Ideal Customer Profile" (ICP).
 
-## 📸 Demo
-*(You can drag and drop your Lead qualification system.mp4 here or a GIF of the workflow)*
 
 ---
 *Developed as part of my AI Automation Internship. Passionate about building systems that save time and increase ROI.*
